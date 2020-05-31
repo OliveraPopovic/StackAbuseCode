@@ -1,0 +1,3 @@
+12
+some data we want to read as a string in one line
+10

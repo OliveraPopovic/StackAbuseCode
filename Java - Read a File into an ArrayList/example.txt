@@ -1,0 +1,1 @@
+some-2123-different-values- in - this -text-with a common-delimiter
